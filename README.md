@@ -41,4 +41,4 @@ Un score est aussi calculé pour chaque liste en fonction des scores de ses memb
 * [Angular Material Example](https://www.positronx.io/angular-8-reactive-forms-validation-with-angular-material-8/)
 * [Angular Rest-API Example](https://www.positronx.io/angular-8-httpclient-http-tutorial-build-consume-restful-api/)
 
-Hard Luck
+Best of Luck
